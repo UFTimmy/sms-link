@@ -15,7 +15,7 @@ The standard way to write an SMS link in HTML is this one:
 This thing is, depending on which version of iOS you use, the ```?``` separator must be changed to either a ```;```
 or a ```&```.
 
-This library detect which version you're running and adapt the links accordingly.
+This library detects which version you're running and adapt the links accordingly.
 
 ## How to use
 
